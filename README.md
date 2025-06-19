@@ -3,6 +3,6 @@ A lightweight Python-based **Network Intrusion Detection System** using Scapy. I
 
 ## Project Structure
 Port-Scan-detector/
-├── nids_sniffer.py 
-├── config.ini # Configuration settings
-└── README.md # This documentation
+── nids_sniffer.py 
+── config.ini # Configuration settings
+── README.md # This documentation
